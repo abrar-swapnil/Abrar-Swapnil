@@ -1,10 +1,11 @@
-<h1 align="center">MD. Fahim Abrar Swapnil</h1>
+<h1 align="center">
+  <span style="color:#58A6FF;">MD. Fahim Abrar Swapnil</span>
+</h1>
 
 <h3 align="center">
-
-![Software Engineering Student](https://img.shields.io/badge/Software%20Engineering%20Student-58A6FF?style=for-the-badge&logo=github&logoColor=white)
-![Aspiring AI/ML Engineer](https://img.shields.io/badge/Aspiring%20AI%2FML%20Engineer-1F6FEB?style=for-the-badge&logo=openai&logoColor=white)
-
+  <span style="color:#8B949E;">
+    Software Engineering Student • Aspiring AI/ML Engineer
+  </span>
 </h3>
 
 ---
