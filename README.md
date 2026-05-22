@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#58A6FF;">MD. Fahim Abrar Swapnil</span>
+  <span style="color:#58A6FF;">Abrar Swapnil</span>
 </h1>
 
 <h3 align="center">
