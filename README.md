@@ -16,7 +16,20 @@
 - Interested in LLM workflows, deep learning, and scalable AI systems<br>
 - Exploring MLOps, model deployment, and AI application engineering<br>
 - Focused on writing clean, maintainable, production-oriented code<br>
-- I Love to solve Critical Problems.
+- I love solving complex real-world problems
+
+---
+
+## 🌐 Portfolio Website
+
+🚀 **Live Portfolio:**  
+👉 https://your-portfolio-link.vercel.app  
+
+🟢 Status: Active  
+🟣 Stack: React + Vite + Tailwind CSS  
+🟡 Focus: AI/ML + Software Engineering Showcase  
+
+> A fully responsive, production-ready portfolio showcasing my projects, skills, and development journey.
 
 ---
 
@@ -44,16 +57,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
 ---
 
 ## 📌 Featured Projects
 
-- AI-powered Data Analysis Projects
-- Machine Learning Model Development
-- End-to-End AI Workflow Experiments
-- AI Backend System Developemnet
-- Large Language Model Workflow & Developement
+- AI-powered Data Analysis Projects  
+- Machine Learning Model Development  
+- End-to-End AI Workflow Experiments  
+- AI Backend System Development  
+- Large Language Model Workflow & Development  
 
 ---
 
