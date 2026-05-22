@@ -1,11 +1,7 @@
-<h1 align="center">
-  <span style="color:#58A6FF;">MD. Fahim Abrar Swapnil</span>
-</h1>
+<h1 align="center">MD. Fahim Abrar Swapnil</h1>
 
 <h3 align="center">
-  <span style="color:#8B949E;">
-    Software Engineering Student • Aspiring AI/ML Engineer
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+AI%2FML+Engineer;Building+Intelligent+Systems" />
 </h3>
 
 ---
@@ -69,12 +65,12 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abrar-Swapnil-559852352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-swapnil-559852352)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abrar.swapnill)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abrar.swapnil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abrar.swapnil123)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swapnil017763)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/swapnil017763)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnil017763@gmail.com)
