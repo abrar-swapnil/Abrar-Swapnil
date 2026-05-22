@@ -1,7 +1,10 @@
 <h1 align="center">MD. Fahim Abrar Swapnil</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+AI%2FML+Engineer;Building+Intelligent+Systems" />
+
+![Software Engineering Student](https://img.shields.io/badge/Software%20Engineering%20Student-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Aspiring AI/ML Engineer](https://img.shields.io/badge/Aspiring%20AI%2FML%20Engineer-1F6FEB?style=for-the-badge&logo=openai&logoColor=white)
+
 </h3>
 
 ---
