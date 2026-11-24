@@ -23,7 +23,7 @@
 ## 🌐 Portfolio Website
 
 🚀 **Live Portfolio:**  
-👉 **[abrarswapnil.dev](https://abrar-swapnil.vercel.app)**
+👉 **[abrarswapnil.dev](https://abrar-portfolio1.pages.dev)**
 
 🟢 Status: Active  
 🟣 Stack: React + Vite + Tailwind CSS  
